@@ -1,0 +1,6 @@
+{
+  "name": "GenZ Cinema",
+  "description": "Bengali & Global Movie Streaming App with Fullscreen Landscape Video, Google Sign-In, AdMob Integration, and Daily Rewarded Ad video access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
